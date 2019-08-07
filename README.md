@@ -5,5 +5,7 @@ Also it play a role of the communication between robots and computer for the ana
 
 The view of the project:
 
-![图片](interface.jpg)
+![图片](Interface.jpg)
 
+
+![图片](Interface_2.jpg)
