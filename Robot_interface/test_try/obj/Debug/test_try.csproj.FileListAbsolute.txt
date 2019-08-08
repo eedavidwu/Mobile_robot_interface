@@ -1,0 +1,90 @@
+C:\Users\Administrator\Desktop\c#\test_try\test_try\bin\Debug\test_try.exe.config
+C:\Users\Administrator\Desktop\c#\test_try\test_try\bin\Debug\test_try.exe
+C:\Users\Administrator\Desktop\c#\test_try\test_try\bin\Debug\test_try.pdb
+C:\Users\Administrator\Desktop\c#\test_try\test_try\obj\Debug\test_try.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\c#\test_try\test_try\obj\Debug\test_try.Properties.Resources.resources
+C:\Users\Administrator\Desktop\c#\test_try\test_try\obj\Debug\test_try.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\c#\test_try\test_try\obj\Debug\test_try.exe
+C:\Users\Administrator\Desktop\c#\test_try\test_try\obj\Debug\test_try.pdb
+C:\Users\Administrator\Desktop\c#\test_try\test_try\obj\Debug\test_try.Form1.resources
+C:\Users\Administrator\Desktop\c#\test_try\test_try\bin\Debug\CSkin.dll
+C:\Users\Administrator\Desktop\c#\test_try\test_try\bin\Debug\CSkin.xml
+C:\Users\403\Desktop\c#\test_try\test_try\bin\Debug\test_try.exe.config
+C:\Users\403\Desktop\c#\test_try\test_try\obj\Debug\test_try.exe
+C:\Users\403\Desktop\c#\test_try\test_try\obj\Debug\test_try.pdb
+C:\Users\403\Desktop\c#\test_try\test_try\bin\Debug\test_try.exe
+C:\Users\403\Desktop\c#\test_try\test_try\bin\Debug\test_try.pdb
+C:\Users\403\Desktop\c#\test_try\test_try\bin\Debug\CSkin.dll
+C:\Users\403\Desktop\c#\test_try\test_try\bin\Debug\CSkin.xml
+C:\Users\403\Desktop\c#\test_try\test_try\obj\Debug\test_try.csprojResolveAssemblyReference.cache
+C:\Users\403\Desktop\c#\test_try\test_try\obj\Debug\test_try.Form1.resources
+C:\Users\403\Desktop\c#\test_try\test_try\obj\Debug\test_try.Properties.Resources.resources
+C:\Users\403\Desktop\c#\test_try\test_try\obj\Debug\test_try.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\test_try\test_try\bin\Debug\test_try.exe.config
+C:\Users\Administrator\Desktop\test_try\test_try\obj\Debug\test_try.exe
+C:\Users\Administrator\Desktop\test_try\test_try\obj\Debug\test_try.pdb
+C:\Users\Administrator\Desktop\test_try\test_try\bin\Debug\test_try.exe
+C:\Users\Administrator\Desktop\test_try\test_try\bin\Debug\test_try.pdb
+C:\Users\Administrator\Desktop\test_try\test_try\bin\Debug\CSkin.xml
+C:\Users\Administrator\Desktop\test_try\test_try\obj\Debug\test_try.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\test_try\test_try\obj\Debug\test_try.Form1.resources
+C:\Users\Administrator\Desktop\test_try\test_try\obj\Debug\test_try.Properties.Resources.resources
+C:\Users\Administrator\Desktop\test_try\test_try\obj\Debug\test_try.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\test_try - 2\test_try\bin\Debug\test_try.exe.config
+C:\Users\Administrator\Desktop\test_try - 2\test_try\obj\Debug\test_try.exe
+C:\Users\Administrator\Desktop\test_try - 2\test_try\obj\Debug\test_try.pdb
+C:\Users\Administrator\Desktop\test_try - 2\test_try\bin\Debug\test_try.exe
+C:\Users\Administrator\Desktop\test_try - 2\test_try\bin\Debug\test_try.pdb
+C:\Users\Administrator\Desktop\test_try - 2\test_try\obj\Debug\test_try.Form1.resources
+C:\Users\Administrator\Desktop\test_try - 2\test_try\obj\Debug\test_try.Properties.Resources.resources
+C:\Users\Administrator\Desktop\test_try - 2\test_try\obj\Debug\test_try.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\test_try - 2\test_try\obj\Debug\test_try.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\test_try - 2\test_try\obj\Debug\test_try.csproj.ResolveComReference.cache
+C:\Users\403\Desktop\test_try - 2\test_try\bin\Debug\test_try.exe.config
+C:\Users\403\Desktop\test_try - 2\test_try\obj\Debug\test_try.csproj.ResolveComReference.cache
+C:\Users\403\Desktop\test_try - 2\test_try\obj\Debug\test_try.exe
+C:\Users\403\Desktop\test_try - 2\test_try\obj\Debug\test_try.pdb
+C:\Users\403\Desktop\test_try - 2\test_try\bin\Debug\test_try.exe
+C:\Users\403\Desktop\test_try - 2\test_try\bin\Debug\test_try.pdb
+C:\Users\403\Desktop\test_try - 2\test_try\obj\Debug\test_try.csprojResolveAssemblyReference.cache
+C:\Users\403\Desktop\test_try - 2\test_try\obj\Debug\test_try.Form1.resources
+C:\Users\403\Desktop\test_try - 2\test_try\obj\Debug\test_try.Properties.Resources.resources
+C:\Users\403\Desktop\test_try - 2\test_try\obj\Debug\test_try.csproj.GenerateResource.Cache
+C:\Users\403\Desktop\test_try - 2\test_try\obj\Debug\test_try.DataAnalyse.resources
+G:\test_try - 2\test_try\bin\Debug\test_try.exe.config
+G:\test_try - 2\test_try\obj\Debug\test_try.csproj.ResolveComReference.cache
+G:\test_try - 2\test_try\obj\Debug\test_try.exe
+G:\test_try - 2\test_try\obj\Debug\test_try.pdb
+C:\Users\Administrator\Desktop\test_try - 22\test_try\bin\Debug\test_try.exe.config
+C:\Users\Administrator\Desktop\test_try - 22\test_try\obj\Debug\test_try.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\test_try - 22\test_try\obj\Debug\test_try.exe
+C:\Users\Administrator\Desktop\test_try - 22\test_try\obj\Debug\test_try.pdb
+C:\Users\Administrator\Desktop\test_try - 22\test_try\bin\Debug\test_try.exe
+C:\Users\Administrator\Desktop\test_try - 22\test_try\bin\Debug\test_try.pdb
+C:\Users\Administrator\Desktop\test_try - 22\test_try\obj\Debug\test_try.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\test_try - 22\test_try\obj\Debug\test_try.DataAnalyse.resources
+C:\Users\Administrator\Desktop\test_try - 22\test_try\obj\Debug\test_try.Form1.resources
+C:\Users\Administrator\Desktop\test_try - 22\test_try\obj\Debug\test_try.Properties.Resources.resources
+C:\Users\Administrator\Desktop\test_try - 22\test_try\obj\Debug\test_try.csproj.GenerateResource.Cache
+C:\Users\403\Desktop\test_try - 22\test_try\bin\Debug\test_try.exe.config
+C:\Users\403\Desktop\test_try - 22\test_try\obj\Debug\test_try.csproj.ResolveComReference.cache
+C:\Users\403\Desktop\test_try - 22\test_try\obj\Debug\test_try.exe
+C:\Users\403\Desktop\test_try - 22\test_try\obj\Debug\test_try.pdb
+C:\Users\403\Desktop\test_try - 22\test_try\bin\Debug\test_try.exe
+C:\Users\403\Desktop\test_try - 22\test_try\bin\Debug\test_try.pdb
+C:\Users\403\Desktop\test_try - 22\test_try\obj\Debug\test_try.csprojResolveAssemblyReference.cache
+C:\Users\403\Desktop\test_try - 22\test_try\obj\Debug\test_try.DataAnalyse.resources
+C:\Users\403\Desktop\test_try - 22\test_try\obj\Debug\test_try.Form1.resources
+C:\Users\403\Desktop\test_try - 22\test_try\obj\Debug\test_try.Properties.Resources.resources
+C:\Users\403\Desktop\test_try - 22\test_try\obj\Debug\test_try.csproj.GenerateResource.Cache
+C:\Users\403\Desktop\上位机程序\test_try\bin\Debug\test_try.exe.config
+C:\Users\403\Desktop\上位机程序\test_try\obj\Debug\test_try.csproj.ResolveComReference.cache
+C:\Users\403\Desktop\上位机程序\test_try\obj\Debug\test_try.exe
+C:\Users\403\Desktop\上位机程序\test_try\obj\Debug\test_try.pdb
+C:\Users\403\Desktop\上位机程序\test_try\bin\Debug\test_try.exe
+C:\Users\403\Desktop\上位机程序\test_try\bin\Debug\test_try.pdb
+C:\Users\403\Desktop\上位机程序\test_try\obj\Debug\test_try.csprojResolveAssemblyReference.cache
+C:\Users\403\Desktop\上位机程序\test_try\obj\Debug\test_try.DataAnalyse.resources
+C:\Users\403\Desktop\上位机程序\test_try\obj\Debug\test_try.水下航行器.resources
+C:\Users\403\Desktop\上位机程序\test_try\obj\Debug\test_try.Properties.Resources.resources
+C:\Users\403\Desktop\上位机程序\test_try\obj\Debug\test_try.csproj.GenerateResource.Cache
